@@ -9,6 +9,12 @@
   src: url('Raleway/Raleway-Medium.ttf');
 }
 
+html
+{
+  max-width: 1920px;
+  margin: auto;
+}
+
 body
 {
   font-family:'Raleway', sans-serif;
@@ -24,7 +30,7 @@ header
 
 .logo
 {
-  margin: 34px 0px 0px 2.5%;
+  margin: 34px 0px 0px 50px;
   position: absolute;
 }
 
@@ -2302,4 +2308,3 @@ input
   }
   
 }
-
